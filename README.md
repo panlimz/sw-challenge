@@ -6,4 +6,4 @@ Note that this project is unfinished yet, it was based on the next.js example pr
 
 PT-BR
 Esta é a minha primeira tentativa de buscar dados de uma API externa utilizando Next.js.
-Note que este projeto ainda está inacabado, foi baseado no exemplo next.js fornecido por sua documentação e este foi o resultado de uma semana de estudo.
+Note que este projeto ainda está inacabado, foi baseado no exemplo next.js fornecido por sua documentação e foi o resultado de uma semana de estudo.
