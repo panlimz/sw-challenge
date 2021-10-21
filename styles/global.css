@@ -16,9 +16,12 @@ body {
 }
 
 img {
-  max-width: 100%;
-  display: block;
-    align-self: center;
+  object-position: 50% 50%;
+  
+}
+
+p {
+  text-align: center;
 }
 
 a {
